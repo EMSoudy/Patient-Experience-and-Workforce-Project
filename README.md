@@ -12,12 +12,12 @@ Data manipulated and cleansed using Excel and Tableau (Filtering dates and creat
 
 Contains 4 data frames that were joined together using subqueries in Microsoft SQL Management Server
 
-	- px_resp_data: patient survey responses to the patient experience (PX) outcome of "Likelihood to Recommend Services"
-	- wf_resp_data: contains workforce experience (WF) survey responses within a year
-	- Crosswalk: px_unit and wf_unit ID field mapping
-		- px_unit - the unit the patient visited
-		- wf_unit - WF team/unit
-	- Wf_item_labels: contains wf_item_id column and the item's as a character (wf_item_label), which are the questions answered by the workforce
+-  px_resp_data: patient survey responses to the patient experience (PX) outcome of "Likelihood to Recommend Services"
+-  wf_resp_data: contains workforce experience (WF) survey responses within a year
+-  Crosswalk: px_unit and wf_unit ID field mapping
+	- px_unit - the unit the patient visited
+	- wf_unit - WF team/unit
+-  Wf_item_labels: contains wf_item_id column and the item's as a character (wf_item_label), which are the questions answered by the workforce
 	
 Tableau was used to create visualizations of data with a variety of graphs and tables
 	
