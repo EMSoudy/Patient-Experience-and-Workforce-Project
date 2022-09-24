@@ -3,11 +3,14 @@ Survey response score analysis based on workforce and patient experience.
 
 Analyzing how patient care team working conditions impact their patients’ experience of care during an inpatient stay
 
-Includes:
-	- PowerPoint Presentation
-	- SQL Query
-	- Visualizations (Tableau workbook)
-	
+Included:
+
+- PowerPoint Presentation
+- SQL Query
+- Visualizations (Tableau workbook)
+
+Process:
+
 - Data manipulated and cleansed using Excel and Tableau (Filtering dates and creating a threshold for scores)
 
 - Contains 4 data frames that were joined together using subqueries in Microsoft SQL Management Server
@@ -21,8 +24,10 @@ Includes:
 	
 - Tableau was used to create visualizations of data with a variety of graphs and tables
 	
-Outcome
-	- In some cases, workforce experience results had an effect on patient experience.
-	- Some departments showed to perform better than others via the results 
+Outcome:
+
+- In some cases, workforce experience results had an effect on patient experience, reflected by the survey response scores.
+- Some departments showed to perform better than others via the results 
+
 
  
