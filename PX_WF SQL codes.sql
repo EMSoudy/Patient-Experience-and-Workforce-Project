@@ -17,6 +17,7 @@ inner join wf_item_labels wfl on wfl.wf_item_id = wf.wf_item_id
 
 
 --Wide data frame results
+--Taking the median for workforce (n-size)
 
 select cr.px_unit, cr.wf_unit,
 wf.survey_id as wf_SurveyID, wf.survey_response_score as wf_SurveyResponseScore, 
